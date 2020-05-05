@@ -1,4 +1,4 @@
-﻿[Design]
+[Design]
 Version=1.0
 HierarchyMode=0
 ChannelRoomNamingStyle=0
@@ -30,6 +30,10 @@ FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
 OutputPath=
 LogFolderPath=
+ManagedProjectGUID=7F77CC6D-2D58-440A-8CA7-1FC01F91CB49
+VaultGUID=33FB9CB9-D928-4828-973E-A6B0273E95DB
+ReleaseVaultName=1_U26StoikovUAT
+ItemGUID=7F77CC6D-2D58-440A-8CA7-1FC01F91CB49
 IncludeDesignInRelease=0
 
 [Preferences]
