@@ -30,10 +30,6 @@ FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
 OutputPath=
 LogFolderPath=
-ManagedProjectGUID=C89C2745-E055-4EC8-B5B1-4DF29CAE1C3B
-VaultGUID=7CD3E9D9-18DC-4BC2-98D4-58E2F65CDA7B
-ReleaseVaultName=3
-ItemGUID=C89C2745-E055-4EC8-B5B1-4DF29CAE1C3B
 IncludeDesignInRelease=0
 
 [Preferences]
