@@ -30,11 +30,6 @@ FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
 OutputPath=
 LogFolderPath=
-ManagedProjectGUID=E2EB68D6-995F-4D5A-90F2-A170F342F08D
-VaultGUID=33FB9CB9-D928-4828-973E-A6B0273E95DB
-ReleaseVaultName=1_U26StoikovUAT
-ItemGUID=E2EB68D6-995F-4D5A-90F2-A170F342F08D
-IncludeDesignInRelease=0
 
 [Preferences]
 PrefsVaultGUID=
