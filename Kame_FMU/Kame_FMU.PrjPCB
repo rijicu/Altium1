@@ -1,4 +1,4 @@
-[Design]
+﻿[Design]
 Version=1.0
 HierarchyMode=1
 ChannelRoomNamingStyle=0
@@ -30,6 +30,11 @@ FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
 OutputPath=
 LogFolderPath=
+ManagedProjectGUID=A5FB11FA-43D3-4478-800F-B9D538E84C23
+VaultGUID=0CB17D4F-F081-4FE3-8C2D-4EF360CFACF8
+ReleaseVaultName=060520_DEV
+ItemGUID=A5FB11FA-43D3-4478-800F-B9D538E84C23
+IncludeDesignInRelease=0
 
 [Preferences]
 PrefsVaultGUID=
